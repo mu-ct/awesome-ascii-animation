@@ -19,6 +19,7 @@ ASCII animation turns characters and symbols into moving art — from old-school
 
 ## Online Tools
 
+- [ASCII Images](https://ascii-images.com/image-to-ascii) - Free browser converter for static image-to-ASCII artwork with TXT and PNG exports; no account required.
 - [ascii.life](https://ascii.life) - AI-powered ASCII animation generator. Convert text prompts, images, audio, or video to animated ASCII art with 12 retro display themes (Matrix, CRT, C64, DOS, Apple II, Amber, Phosphor, Plasma, VFD, LCD). Export as GIF or MP4. MIT-licensed public gallery.
 - [asciimation.co.nz](http://www.asciimation.co.nz) - Classic ASCII animation of Star Wars, by Simon Jansen. A landmark in ASCII animation history.
 - [Playscii](http://vectorpoem.com/playscii/) - Open source ASCII/ANSI art and animation editor.
